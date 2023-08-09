@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+
+.nav-item-custom {
+
+    font-family: "Josefin Sans", sans-serif;
+    margin: 10px;
+}
+
+
+.nav-link:last-child {
+    border-right: none;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.nav-item-custom:hover {
+    font-weight: bold;
+    color: #EA9D0C;
+    transform: scale(1.2);
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
